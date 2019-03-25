@@ -1,6 +1,8 @@
 # TodoList App
 this is a todolist Web page with an intuitive design.
 
+![Imgur](https://i.imgur.com/JBUHf1R.png)
+
 ## How to Install
 
 > click on the green button and download as a Zip file <br>
