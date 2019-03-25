@@ -13,3 +13,5 @@ this is a todolist Web page with an intuitive design.
 > open git on your machine<br>
 > copy and paste: https://github.com/TheCodeisthub/mytodoawesomeday.git<br>
 > open the folder and open the index.html file.
+
+### You can also view it on my codepen 👉 https://codepen.io/TheCodeist/pen/dgOOQZ
